@@ -1,0 +1,18 @@
+# Node.js User API Testing Project
+
+This project is a REST API built with Node.js, Express, and MongoDB.  
+It includes automated API testing using Mocha and Chai.
+
+## Technologies Used
+
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- Mocha
+- Chai
+- Chai-HTTP
+- Dotenv
+- Babel
+
+## Project Structure
