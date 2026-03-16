@@ -1,0 +1,26 @@
+{
+  "name": "nodejstesting",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "babel-node server.js",
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@babel/core": "^7.29.0",
+    "@babel/node": "^7.29.0",
+    "@babel/preset-env": "^7.29.0",
+    "chai": "^4.3.10",
+    "chai-http": "^4.3.0",
+    "mocha": "^11.7.5"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "mongoose": "^9.3.0"
+  }
+}
